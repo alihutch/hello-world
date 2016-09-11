@@ -1,3 +1,3 @@
 # hello-world
-My first repository ono Github.
+My first repository on Github.
 I am a seasoned software developer exploring new technologies
